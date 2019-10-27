@@ -62,3 +62,8 @@
 
 - Bio: Software Developer
 - Location: Center, Israel
+
+#### Name: [Tayyab Yasin](https://github.com/Tayyibyasin7860)
+
+- Bio: Web Developer
+- Location: Rawalpindi, Pakistan
